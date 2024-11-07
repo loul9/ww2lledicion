@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>recursosww2</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>CE1132</corbanda>
+        <cornavega>CE1132</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>68091A</cortexto>
+        <titulo>LA SEGUNDA GUERRA MUNDIAL</titulo>
+        <autor>SEBASTIAN MENDOZA</autor>
+        <logo>Logo.png</logo>
+        <imaxefondo posx="-186" posy="-10" trans="100">898731.jpg</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <cabeceira>Introducción</cabeceira>
+              <imaxe>533497.jpg</imaxe>
+              <forma>1</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#FFFFFF" face="Arial" size="18"><i>La Segunda Guerra Mundial (1939-1945) fue uno de los conflictos más devastadores y significativos de la historia moderna. Se originó por tensiones políticas y económicas, agravadas por los resentimientos derivados del Tratado de Versalles tras la Primera Guerra Mundial y la expansión territorial de regímenes totalitarios como la Alemania nazi, la Italia fascista y el Imperio de Japón. La guerra enfrentó a las Potencias del Eje (Alemania, Italia y Japón) contra los Aliados (principalmente Estados Unidos, Reino Unido, la Unión Soviética, Francia y China).</i><br>
+<br>
+<i>Este conflicto se libró en diversos frentes, incluidos Europa, Asia, África y los océanos Atlántico y Pacífico, afectando a millones de civiles y soldados. Fue marcado por eventos trascendentales como la invasión de Polonia, la Batalla de Stalingrado, el bombardeo de Pearl Harbor, el Holocausto y el lanzamiento de las bombas atómicas sobre Hiroshima y Nagasaki. La Segunda Guerra Mundial no solo transformó el mapa geopolítico, sino que también dejó profundas huellas en la sociedad global, conduciendo a la creación de las Naciones Unidas y al inicio de la Guerra Fría.</i><br>
+<br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <cfondo>FFFFFF</cfondo>
+              <ctexto>68091A</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <cabeceira>¿Quienes fueron los participantes de este conflicto militar?</cabeceira>
+              <modo>3</modo>
+              <cousa nome="Alemaniza Nazi">alemania_nazi.png</cousa>
+              <cousa nome="EE.UU">EEUU.png</cousa>
+              <cousa nome="URSS">Union_Sovietica.png</cousa>
+              <cousa nome="Japon">Japon.png</cousa>
+              <cousa nome="Italia">Flag_of_Italy.png</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>7</tipo>
+              <cabeceira>¿A cuales Bandos Pertenecen?</cabeceira>
+              <caixa1>Los Aliados</caixa1>
+              <caixa2>Las Potencias de Eje</caixa2>
+              <mini caixa="2">alemania_nazi.png</mini>
+              <mini caixa="1">EEUU.png</mini>
+              <mini caixa="2">Flag_of_Italy.png</mini>
+              <mini caixa="2">Japon.png</mini>
+              <mini caixa="1">Reino_Unido.png</mini>
+              <mini caixa="1">Union_Sovietica.png</mini>
+              <cfondo>FFFFFF</cfondo>
+              <cadro></cadro>
+              <modo></modo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>38</tipo>
+              <cabeceira>¿Que fue lo que pasó con Pearl Harbor?</cabeceira>
+              <imaxe>Pearl_Harbor.png</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#FFFFFF" face="Times New Roman" size="28"><i>El ataque a Pearl Harbor ocurrió el 7 de diciembre de 1941, cuando las fuerzas japonesas llevaron a cabo un sorpresivo asalto aéreo contra la base naval de Estados Unidos en Pearl Harbor, Hawái. Este ataque fue planeado por el Imperio de Japón como un golpe preventivo para neutralizar la capacidad naval estadounidense en el Pacífico y permitir la expansión japonesa en Asia sin la intervención inmediata de Estados Unidos.</i><br>
+<br>
+<i>La ofensiva, ejecutada en dos oleadas por más de 350 aviones japoneses, causó una devastación significativa: hundió o dañó gravemente numerosos buques de guerra, incluyendo acorazados como el USS Arizona, y destruyó casi 200 aviones estadounidenses. Además, más de 2,400 militares y civiles perdieron la vida, y miles más resultaron heridos.</i><br>
+<br>
+<i>El impacto del ataque unió a la nación estadounidense y marcó un punto de inflexión crucial en la Segunda Guerra Mundial. Al día siguiente, el 8 de diciembre de 1941, Estados Unidos declaró la guerra a Japón, entrando formalmente en el conflicto global y cambiando el curso de la guerra en los años que siguieron.</i><br>
+<br>
+<br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>68091A</ctexto>
+        </paxina>
+        <paxina id="5" >
+              <tipo>3</tipo>
+              <cabeceira>Resuelve El Rompecabezas</cabeceira>
+              <imaxe>Rompevabeza.jpg</imaxe>
+              <imfondo  trans="60">Rompevabeza.jpg</imfondo>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="6" >
+              <tipo>4</tipo>
+              <cabeceira>Completa la Sopa de Letras (Invasores e Invadidos)</cabeceira>
+              <pe>Buena Suerte Camarada</pe>
+              <modo>1</modo>
+              <sopa enun="ADOLF HITLER">HITLER</sopa>
+              <sopa enun="JOSEF STALIN">STALIN</sopa>
+              <sopa enun="BENITO MUSSOLINI">MUSSOLINI</sopa>
+              <sopa enun="WINSTON CHURCHILL">CHURCHILL</sopa>
+              <sopa enun="CHARLES DE GAULLE">GAULLE</sopa>
+              <sopa enun="FRANKLIN D. ROOSEVELT">ROOSEVELT</sopa>
+              <sopa enun="HARRY S. TRUMAN">TRUMAN</sopa>
+              <sopa enun="HIRO HITO">HIROHITO</sopa>
+              <enunciado>1</enunciado>
+              <colorea>1</colorea>
+              <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQRSTUVXYZ</fondo>
+        </paxina>
+        <paxina id="7" >
+              <tipo>2</tipo>
+              <cabeceira>Para Tener en Cuenta (Ver Video)</cabeceira>
+              <pe>OBSERVA...</pe>
+              <texto posx="6" posy="16" ancho="662" largo="506"><![CDATA[<font size="12"><iframe width="1024" height="768" src="https://www.youtube.com/embed/_70SAuGykl8?si=lmb2B1m1SNF5tvFG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></font>]]></texto>
+              <ctexto>68091A</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+    </libro>
+</lim>
